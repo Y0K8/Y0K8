@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yoke real name: Yerom4ik
+- 👋 Hi, I’m r0ma
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... how to write code
 - 💞️ I’m looking to collaborate on ... I want to learn how to write code

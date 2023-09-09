@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Yoke real name: YeromChik
+- 👋 Hi, I’m Yoke real name: Yerom4ik
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... how to write code
 - 💞️ I’m looking to collaborate on ... I want to learn how to write code
-- 📫 How to reach me ... 7752020265
+- 📫 How to reach me ... u can`t
 
 <!---
 Y0K8/Y0K8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
